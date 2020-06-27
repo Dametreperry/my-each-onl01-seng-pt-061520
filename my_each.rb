@@ -8,7 +8,7 @@ end
 end
 
 collection = [1, 2, 3, 4]
-my_each(collection) do |collection|
+ my_each(collection) do |collection|
   return collection
 end
   
